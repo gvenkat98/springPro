@@ -17,5 +17,6 @@ public class App {
 		
 		// Execute SpringCoreHelloWorld bean's method
 		helloWorldBeanInst.sayHello();
+	System.out.println("hello");
 	}
 }
